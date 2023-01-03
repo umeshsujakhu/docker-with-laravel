@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "title": "My first post",
+      "author": "Arya Stark"
+    },
+    {
+      "title": "My second post",
+      "author": "Arya Stark"
+    }
+  ],
+  "profile": {
+    "first_name": "Arya",
+    "last_name": "Stark",
+    "email": "arya@example.com"
+  }
+}
